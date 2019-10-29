@@ -1,2 +1,2 @@
 # hello-world
-purly want to say hello
+only want to say hello
